@@ -2,7 +2,6 @@
 
 - 🔭 ML/AI Engineer
 - Passionate about machine learning and AI enthusiast
-- You can find me on <a href="https://www.linkedin.com/in/ngo-anthony/"><img height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png" /></a>
 
 <br>
 
