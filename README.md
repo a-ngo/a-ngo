@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Anthony
 
-- 🔭 ML/AI Engineer
+- 🔭 AI/ML Engineer
 - Passionate about machine learning and AI enthusiast
 
 <br>
